@@ -1,3 +1,3 @@
 ### A little repository to test publishing of releases via Github.
 
-Latest version is always available in `latest` folder.
+Latest version is always available in the `latest` folder.
